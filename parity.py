@@ -1,0 +1,6 @@
+x = int(input("Whats x? ")) 
+
+if x%2 == 0:
+    print("even")
+else:
+    print("odd")
